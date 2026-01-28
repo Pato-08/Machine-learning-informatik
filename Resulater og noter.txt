@@ -1,0 +1,10 @@
+Resultater:
+random state = 67
+Regression (200):
+0,96 accuracy
+
+Naboer (20):
+1,00 accuracy
+
+Tree (6):
+0,93 accuracy
