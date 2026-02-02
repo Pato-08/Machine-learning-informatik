@@ -8,3 +8,12 @@ Naboer (20):
 
 Tree (6):
 0,93 accuracy
+
+
+Resultater (kaggle dataset):
+Antal træningsdata: 14000
+Antal testdata: 6000     
+MAE/standard afvigelse:  9.86
+RMSE/ median afvigelse: 12.18
+R²/ korrelation:   0.58
+
